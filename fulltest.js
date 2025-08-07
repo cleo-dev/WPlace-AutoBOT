@@ -1,4 +1,3 @@
-<script>
 /* WPlace Unified Bot — Auto-Image + Auto-Farm
    - Modo: selecione "Auto-Image" ou "Auto-Farm" no topo do painel
    - Auto-Image: faça upload, (opcional) redimensione, selecione a posição pintando 1 px no site, e comece.
