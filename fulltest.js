@@ -1,8 +1,3 @@
-/* WPlace Unified Bot — Auto-Image + Auto-Farm
-   - Modo: selecione "Auto-Image" ou "Auto-Farm" no topo do painel
-   - Auto-Image: faça upload, (opcional) redimensione, selecione a posição pintando 1 px no site, e comece.
-   - Auto-Farm: defina START_X/START_Y, área (pixels por lado) e delay. Ele pinta aleatório dentro da área.
-*/
 (async () => {
   // ========= CONFIG & TEXTS =========
   const CONFIG = {
